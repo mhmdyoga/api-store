@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "handle": "vercel/functions/api/data.js", "src": "/api/data" }
+    ]
+  }
+  
